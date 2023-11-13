@@ -1,5 +1,5 @@
 const keisan = (num) => {
-  console.log(num * num);
+  return num * num;
 }
 
-keisan(10);
+console.log(keisan(10));
